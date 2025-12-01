@@ -1,4 +1,3 @@
-@"
 # Alisov’s Climate Classification (Global Maps) — Dataset (Shimabukuro et al., 2023)
 
 This repository hosts **documentation, small samples, and helper scripts**.  
@@ -9,5 +8,3 @@ This repository hosts **documentation, small samples, and helper scripts**.
 - Dataset DOI: None
 - Samples: `Alisov's dataset/` (temporary)
 - License: Data under **CC BY 4.0** (to be added as LICENSE)
-
-"@ | Set-Content README.md -Encoding UTF8
